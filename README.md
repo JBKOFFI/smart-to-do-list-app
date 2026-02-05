@@ -16,4 +16,4 @@ Application web de gestion de tâches développée avec **Python, Flask **.
 - HTML / CSS
 
 ```bash
-git clone https://github.com/JBKOFFI/smart-todo-app.git
+lien de l'application:https://smart-to-do-list-app-1.onrender.com/
