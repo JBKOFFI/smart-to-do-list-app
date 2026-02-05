@@ -15,5 +15,5 @@ Application web de gestion de tâches développée avec **Python, Flask **.
 - Flask
 - HTML / CSS
 
-```bash
+
 lien de l'application: [https://smart-to-do-list-app-1.onrender.com/](https://smart-to-do-list-app-1.onrender.com/)
